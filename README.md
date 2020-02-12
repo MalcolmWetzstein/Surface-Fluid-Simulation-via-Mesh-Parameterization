@@ -3,15 +3,22 @@ Novel approach to mesh surface fluid simulation. Algorithm geared toward applica
 
 ## Included in Repository
 
-- Code (written in Python)
+- Python Code
 - Assets for Testing
 - Research Paper
 - Figures
+
+## How to Run
+
+After installing dependencies, open the terminal/command prompt in the src directory and run the following command: 
+
+python render.py
 
 ## Dependencies
 
 Most of the following dependencies are python packages that can be installed using pip, with the exception of GLUT. Instructions for installing GLUT coming soon...
 
+- Python 2.7
 - GLUT
 - PyOpenGL
 - OpenGLContext
