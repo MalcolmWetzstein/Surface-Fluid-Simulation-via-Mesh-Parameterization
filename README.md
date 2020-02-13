@@ -1,5 +1,5 @@
-# Surface-Fluid-Simulation-via-Mesh-Parameterization
-Novel approach to mesh surface fluid simulation. Algorithm geared toward application in real-time games/visual effects.
+# Surface Fluid Simulation via Mesh Parameterization
+Novel approach to mesh surface fluid simulation. Algorithm geared toward application in real-time games/visual effects. Code features a CPU-based proof-of-concept.
 
 ## Included in Repository
 
@@ -7,6 +7,10 @@ Novel approach to mesh surface fluid simulation. Algorithm geared toward applica
 - Assets for Testing
 - Research Paper
 - Figures
+
+## Demo Video
+
+https://youtu.be/Jbz7SobDzok
 
 ## How to Run
 
@@ -30,3 +34,7 @@ Most of the following dependencies are python packages that can be installed usi
 - trimesh
 - pyglet
 - matplotlib
+
+## Next Steps
+
+Porting code to C++ to take advantage of DirectX 12 for GPU acceleration and to provide a more realistic visualization. Looking into using libigl for mesh parameterization and Nvidia libraries for fluid simulation.
