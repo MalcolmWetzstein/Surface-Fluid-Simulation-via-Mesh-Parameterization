@@ -37,4 +37,4 @@ Most of the following dependencies are python packages that can be installed usi
 
 ## Next Steps
 
-Porting code to C++ to take advantage of DirectX 12 for GPU acceleration and to provide a more realistic visualization. Looking into using libigl for mesh parameterization and Nvidia libraries for fluid simulation.
+Porting code to C++ to take advantage of DirectX 12 and/or Cuda for GPU acceleration and to provide a more realistic visualization. Looking into using libigl for mesh parameterization and Nvidia libraries for fluid simulation.
