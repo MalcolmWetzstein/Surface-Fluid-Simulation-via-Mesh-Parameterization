@@ -1,5 +1,5 @@
 # Surface Fluid Simulation via Mesh Parameterization
-Novel approach to mesh surface fluid simulation. Algorithm geared toward application in real-time games/visual effects. Code features a CPU-based proof-of-concept.
+Novel approach to mesh surface fluid simulation that I came up with building off of previous research in mesh parameterization. Algorithm geared toward application in real-time games/visual effects. Code features a CPU-based proof-of-concept.
 
 ## Included in Repository
 
